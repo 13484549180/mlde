@@ -1,7 +1,8 @@
 <?php 
 public function test()
 {
-	echo "hello world";
+	echo "hello Yook";
+	echo "www.qq.com";
 } 
 
 
