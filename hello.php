@@ -1,7 +1,7 @@
 <?php 
 public function test()
 {
-	echo "hello world";
+	echo "你好吗？";
 } 
 
 
