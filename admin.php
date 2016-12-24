@@ -1,7 +1,8 @@
 <?php 
 public function dept()
 {
-	echo "admin";
+	echo "admin1";
+	echo "admin2";
 } 
 
 
